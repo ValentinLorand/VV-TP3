@@ -10,6 +10,6 @@ These exercises are to be done on the back-end of the Doodle project. In the exe
 
 2. [Mock data to do unit testing](exercises/mockito.md)
 
-3. [Test rule matching with Harmcrest](exercises/harmcrest.md)
+3. [Test rule matching with Hamcrest](exercises/hamcrest.md)
 
 4. [Test your REST API using SoapUI](exercises/system.md)
