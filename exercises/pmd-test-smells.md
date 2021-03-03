@@ -1,6 +1,6 @@
 # Detecting test smells with PMD
 
-In folder [`pmd-documentation`](./pmd-documentation) you will find the documentation of a selection of PMD rules designed to catch test smells.
+In folder [`pmd-documentation`](../pmd-documentation) you will find the documentation of a selection of PMD rules designed to catch test smells.
 Identify which of the test smells discussed in classes are implemented by these rules.
 
 Use one of the rules to detect a test smell in one of the following projects:

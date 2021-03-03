@@ -49,7 +49,7 @@ Use the following steps to design the test suite:
 3. If you have in your code any predicate that uses more than two boolean operators check if the test cases written to far satisfy *Base Choice Coverage*. If needed add new test cases. Describe below how you evaluated the logic coverage and the new test cases you added.
 4. Use PIT to evaluate the test suite you have so far. Describe below the mutation score and the live mutants. Add new test cases or refactor the existing ones to achieve a high mutation score.
 
-Use the project in [tp3-date](./tp3-date) to complete this exercise.
+Use the project in [tp3-date](../code/tp3-date) to complete this exercise.
 
 ## Answer
 

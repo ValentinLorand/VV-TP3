@@ -22,7 +22,7 @@ Use the coverage criteria studied in classes as follows:
 4. Use PIT to evaluate the test suite you have so far. Describe below the mutation score and the live mutants. Add new test cases or refactor the existing ones to achieve a high mutation score.
 
 Write below the actions you took on each step and the results you obtained.
-Use the project in [tp3-balanced-strings](./tp3-balanced-strings) to complete this exercise.
+Use the project in [tp3-balanced-strings](../code/tp3-balanced-strings) to complete this exercise.
 
 ## Answer
 
